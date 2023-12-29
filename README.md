@@ -10,3 +10,6 @@ https://github.com/onnx/models/tree/main/validated/vision/style_transfer/fast_ne
 original pytorch models:
 https://github.com/pytorch/examples/tree/main/fast_neural_style#models
 
+original paper from 2016:
+https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf
+
