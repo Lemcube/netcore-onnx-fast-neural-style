@@ -7,3 +7,6 @@ https://devblogs.microsoft.com/surface-duo/flutter-onnx-runtime/#bluetit
 onnx models from:
 https://github.com/onnx/models/tree/main/validated/vision/style_transfer/fast_neural_style
 
+original pytorch models:
+https://github.com/pytorch/examples/tree/main/fast_neural_style#models
+
