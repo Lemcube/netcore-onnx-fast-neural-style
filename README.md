@@ -13,10 +13,10 @@ A .NET Core demo for ONNX model: Image style transformation.
 
 | Original Image |
 | -------------- |
-| ![Original](/result/lion.jpeg) |
+| ![Original](/results/lion.jpeg) |
 | Mosaic Style | Pointilism Style | Udnie Style |
 | ------------ | ---------------- | ----------- |
-| ![Mosaic Style](/result/lion_mosaic.jpg) | ![Pointilism Style](/result/lion_pointilism.jpg) | ![Udnie Style](/result/lion_udnie.jpg) |
+| ![Mosaic Style](/results/lion_mosaic.jpg) | ![Pointilism Style](/results/lion_pointilism.jpg) | ![Udnie Style](/results/lion_udnie.jpg) |
 
 The application transforms images using various style models. Below are some examples:
 
