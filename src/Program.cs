@@ -18,7 +18,7 @@ namespace ConsoleApp3
             const string pointilism = "./OnnxModels/pointilism-8.onnx";
             const string udnie = "./OnnxModels/udnie-9.onnx";
 
-            const string image1 = "test.jpg";
+            const string image1 = "lion.jpg";
             const string image2 = "red.png";
 
             string generationPrefix = DateTime.Now.ToString("yyMMdd_HHmmss_");
