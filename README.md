@@ -13,13 +13,13 @@ A .NET Core demo for ONNX model: Image style transformation.
 The application transforms images using various style models. Below are some examples:
 
 ### Original Image
-![Original](/result/lion.jpg)
+![Original](/results/lion.jpg)
 
 ### Mosaic Style
-![Mosaic Style](/result/lion_mosaic.jpg)
+![Mosaic Style](/results/lion_mosaic.jpg)
 
 ### Pointilism Style
-![Pointilism Style](/result/lion_pointilism.jpg)
+![Pointilism Style](/results/lion_pointilism.jpg)
 
 ### Udnie Style
-![Udnie Style](/result/lion_udnie.jpg)
+![Udnie Style](/results/lion_udnie.jpg)
